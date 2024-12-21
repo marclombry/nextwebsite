@@ -1,0 +1,87 @@
+[
+    {
+      "id": 1,
+      "name": "Produit 1",
+      "description": "Description courte du produit 1",
+      "image": "/images/boucle3.jpeg",
+      "price": "$49.99"
+    },
+    {
+      "id": 2,
+      "name": "Produit 2",
+      "description": "Description courte du produit 2",
+      "image": "/images/bague_or1.jpeg",
+      "price": "$39.99"
+    },
+    {
+      "id": 3,
+      "name": "Produit 3",
+      "description": "Description courte du produit 3",
+      "image": "/images/bague_emeraude1.jpeg",
+      "price": "$59.99"
+    },
+    {
+      "id": 4,
+      "name": "Produit 4",
+      "description": "Description courte du produit 4",
+      "image": "/images/bracelet1.jpeg",
+      "price": "$69.99"
+    },
+    {
+      "id": 5,
+      "name": "Produit 5",
+      "description": "Description courte du produit 5",
+      "image": "/images/dragon.jpeg",
+      "price": "$79.99"
+    },
+    {
+      "id": 6,
+      "name": "Produit 6",
+      "description": "Description courte du produit 6",
+      "image": "/images/tigre1.jpeg",
+      "price": "$89.99"
+    },
+    {
+      "id": 7,
+      "name": "Produit 7",
+      "description": "Description courte du produit 7",
+      "image": "/images/taureau.jpeg",
+      "price": "$99.99"
+    },
+    {
+      "id": 8,
+      "name": "Produit 8",
+      "description": "Description courte du produit 8",
+      "image": "/images/capricorn.jpeg",
+      "price": "$109.99"
+    },
+    {
+      "id": 9,
+      "name": "Produit 9",
+      "description": "Description courte du produit 9",
+      "image": "/images/scorpion.jpeg",
+      "price": "$119.99"
+    },
+    {
+      "id": 10,
+      "name": "Produit 10",
+      "description": "Description courte du produit 10",
+      "image": "/images/lion.jpeg",
+      "price": "$129.99"
+    },
+    {
+      "id": 11,
+      "name": "Produit 11",
+      "description": "Description courte du produit 11",
+      "image": "/images/loup.jpeg",
+      "price": "$139.99"
+    },
+    {
+      "id": 12,
+      "name": "Produit 12",
+      "description": "Description courte du produit 12",
+      "image": "/images/arbre.jpeg",
+      "price": "$149.99"
+    }
+]
+  
