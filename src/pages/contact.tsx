@@ -1,8 +1,6 @@
-// pages/contact.tsx
-
 import React from 'react';
-import { NavbarComponent } from '../components/NavbarComponent'; // Assurez-vous d'importer votre Navbar
-import FooterComponent from '../components/FooterComponent'; // Assurez-vous d'importer votre Footer
+import { NavbarComponent } from '../components/NavbarComponent';
+import FooterComponent from '../components/FooterComponent';
 
 const Contact: React.FC = () => {
   return (
@@ -43,7 +41,7 @@ const Contact: React.FC = () => {
             {/* Carte avec l'image de l'emplacement */}
             <div className="flex justify-center items-center">
               <img
-                src="/images/map.png" // Remplacez par l'image de la carte réelle ou une image fictive
+                src="/images/map.PNG" // Remplacez par l'image de la carte réelle ou une image fictive
                 alt="Carte de la boutique"
                 className="w-full h-64 object-cover rounded-lg shadow-lg"
               />
